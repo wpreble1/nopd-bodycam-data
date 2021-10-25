@@ -64,5 +64,3 @@ async function main() {
 }
 
 main();
-
-// 4 decimal places
